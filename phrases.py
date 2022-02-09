@@ -53,7 +53,7 @@ taco_transfer_comment_low = 'Why didn\'t you share more tacos tho?\U0001F634'
 
 taco_transfer_comment_medium = 'They must be a good person! \U0001F63D'
 
-taco_transfer_comment_high = 'Do you owe him lots of money or what? \U0001F639'
+taco_transfer_comment_high = 'Do you owe them lots of money or what? \U0001F639'
 
 taco_top_phrase = '<b>Here are the top-{} taco-owners of this chat!</b>\n{}'
 

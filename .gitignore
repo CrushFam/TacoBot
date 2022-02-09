@@ -9,3 +9,6 @@ venv/
 *.session-journal
 *.session
 .DS_Store
+nohup.out
+tacobot/
+tacoDB.sqlite
